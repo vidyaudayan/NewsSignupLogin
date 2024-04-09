@@ -1,7 +1,7 @@
 //const React = require('react');
 //const ReactDOM = require('react-dom');
-import React from 'react';
-import ReactDOM from 'react-dom';
+//import React from 'react';
+//import ReactDOM from 'react-dom';
 import App from './App.jsx';
 import './index.css';
 import Root from './Root.jsx';
